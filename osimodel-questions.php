@@ -105,7 +105,7 @@ $layer7="";
 
 ?>
 
-<form method="post" action="osimodel.php">
+<form method="post" action="osimodel-result.php">
 
 
 

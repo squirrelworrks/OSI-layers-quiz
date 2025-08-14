@@ -371,7 +371,7 @@ echo "<p>WELL DONE!</p>";
 </div><!--end content div--->
 
 <div>
-<a href="osimodel.php">back to test</a>
+<a href="osimodel-questions.php">back to test</a>
 </div>
 
 </body>
